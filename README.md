@@ -39,5 +39,5 @@ building native mobile apps, focusing on Android Platform.
 ## Feel free to connect with me here
 [![Linkedin Badge](https://img.shields.io/badge/-rajendhiraneasu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajendhiraneasu/)](https://www.linkedin.com/in/rajendhiraneasu/)
 [![Gmail Badge](https://img.shields.io/badge/-rajendhiran.mca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajendhiran.mca@gmail.com)](mailto:rajendhiran.mca@gmail.com)
-[![Tech Blog](https://img.shields.io/badge/-www.rajendhiraneasu.in-darkgreen?style=flat-square&logo=Blogger&logoColor=white&link=https://www.rajendhiraneasu.in/)](https://www.rajendhiraneasu.in/)
-[![Literature Blog](https://img.shields.io/badge/-www.chandrawriteups.in-darkgreen?style=flat-square&logo=Blogger&logoColor=white&link=https://www.chandrawriteups.in/)](https://www.chandrawriteups.in/)
+[![Tech Blog](https://img.shields.io/badge/-www.rajendhiraneasu.in-darkgreen?style=flat-square&logo=Blogger&logoColor=white&link=http://www.rajendhiraneasu.in/)](http://www.rajendhiraneasu.in/)
+[![Literature Blog](https://img.shields.io/badge/-www.chandrawriteups.in-darkgreen?style=flat-square&logo=Blogger&logoColor=white&link=http://www.chandrawriteups.in/)](http://www.chandrawriteups.in/)
