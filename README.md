@@ -1,6 +1,6 @@
 <h1> Hey, I’m Raj 👋 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=158C1EFF&vCenter=true&random=false&width=600&lines=Welcome+to+Raj's+Github;Mobile+App+Developer+-+Android+;12%2B+Yrs+-+Hands+on+Exp.;Exp.+on+6%2B+Products+%26+20%2B+Native+Mobile+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&color=158C1EFF&vCenter=true&random=false&width=600&lines=Welcome+to+Raj's+Github;Mobile+App+Developer+-+Android+;12%2B+Yrs+-+Hands+on+Exp.;Exp.+on+6%2B+Products+%26+20%2B+Native+Mobile+Apps" alt="Typing SVG" />
 
 I am an easy going individual who thrives on taking on varied and challenging roles. I am confident working with
 technical specialists across different domains on both products and service line. I have good hands-on experience in
