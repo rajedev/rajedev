@@ -39,7 +39,7 @@ building native mobile apps, focusing on Android Platform.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rajedev)
 
 ## Feel free to connect with me here
-[![Linkedin Badge](https://img.shields.io/badge/-rajendhiraneasu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajendhiraneasu/)](https://www.linkedin.com/in/rajendhiraneasu/)
 [![Gmail Badge](https://img.shields.io/badge/-rajendhiran.mca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajendhiran.mca@gmail.com)](mailto:rajendhiran.mca@gmail.com)
-[![Tech Blog](https://img.shields.io/badge/-www.rajendhiraneasu.in-darkgreen?style=flat-square&logo=Blogger&logoColor=white&link=http://www.rajendhiraneasu.in/)](http://www.rajendhiraneasu.in/)
+[![Tech Blog](https://img.shields.io/badge/-www.rajendhiraneasu.in-darkgreen?style=flat-square&logo=readme&logoColor=white&link=http://www.rajendhiraneasu.in/)](http://www.rajendhiraneasu.in/)
 [![Literature Blog](https://img.shields.io/badge/-www.chandrawriteups.in-darkgreen?style=flat-square&logo=Blogger&logoColor=white&link=http://www.chandrawriteups.in/)](http://www.chandrawriteups.in/)
+[![Linkedin Badge](https://img.shields.io/badge/-rajendhiraneasu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajendhiraneasu/)](https://www.linkedin.com/in/rajendhiraneasu/)
