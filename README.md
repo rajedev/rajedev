@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&color=158C1EFF&vCenter=true&random=false&width=600&lines=Welcome+to+Raj's+Github;Mobile+App+Developer+-+Android+;13%2B+Yrs+-+Hands+on+Exp.;Exp.+on+6%2B+Products+%26+20%2B+Native+Mobile+Apps" alt="Typing SVG" />
 
-<img src="profile_pic.jpeg" width="600" height = "600" /> 
+<img src="profile_pic.jpeg" width="300" height = "300" /> 
 
 <b><i>"Always our work speaks loud enough, doesn't need bodyguards."</i></b>
 
