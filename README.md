@@ -34,11 +34,13 @@ building native mobile apps, focusing on Android Platform.
 </p>
 
 ## Github Stats
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajedev&layout=compact) -->
 <p style="display: flex; justify-contect: space-between;">
 <img src="https://github-contribution-stats.vercel.app/api/?username=rajedev" />
 &nbsp;&nbsp;&nbsp;
 <img align="top" src="https://streak-stats.demolab.com?user=rajedev&mode=weekly&currStreakLabel=EB5454&fire=EB5454&ring=EB5454&currStreakNum=EB5454&sideNums=13A420&sideLabels=13A420" alt="GitHub Streak" />
 </p>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rajedev)
 
