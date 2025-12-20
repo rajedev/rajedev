@@ -17,6 +17,7 @@ building native mobile apps, focusing on Android Platform.
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="java">
   <img src="https://img.shields.io/badge/Jetpack Compose UI-3DDC84.svg?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose UI">
   <img src="https://img.shields.io/badge/KMM-7F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python">
   <img alt="Static Badge" src="https://img.shields.io/badge/jUnit-blue?style=flat-square&logo=junit5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Espresso-brown?style=flat-square&logo=coffeescript&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-blue?style=flat-square&logoColor=white">
