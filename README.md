@@ -18,11 +18,14 @@ building native mobile apps, focusing on Android Platform.
   <img src="https://img.shields.io/badge/Jetpack Compose UI-3DDC84.svg?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose UI">
   <img src="https://img.shields.io/badge/KMM-7F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Langchain-3776AB.svg?style=flat-square&logo=Langchain&logoColor=white" alt="Langchain">
+  <img src="https://img.shields.io/badge/Langgraph-3776AB.svg?style=flat-square&logo=Langgraph&logoColor=white" alt="Langgraph">
+	<br>
   <img alt="Static Badge" src="https://img.shields.io/badge/jUnit-blue?style=flat-square&logo=junit5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Espresso-brown?style=flat-square&logo=coffeescript&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-blue?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
- <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=flat-square&logo=JetBrains&logoColor=white" alt="JetBrains">
+  <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=flat-square&logo=JetBrains&logoColor=white" alt="JetBrains">
 	<br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black" alt="Firebase">
 	<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
