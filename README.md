@@ -1,6 +1,6 @@
 <h1> Hey, I’m Raj 👋 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&color=158C1EFF&vCenter=true&random=false&width=600&lines=Welcome+to+Raj's+Github;Mobile+App+Developer+-+Android+;13%2B+Yrs+-+Hands+on+Exp.;Exp.+on+6%2B+Products+%26+20%2B+Native+Mobile+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&color=158C1EFF&vCenter=true&random=false&width=600&lines=Welcome+to+Raj's+Github;Mobile+App+Developer+-+Android+;14%2B+Yrs+-+Hands+on+Exp.;Exp.+on+6%2B+Products+%26+20%2B+Native+Mobile+Apps" alt="Typing SVG" />
 
 <img src="profile_pic.jpeg" width="300" height = "300" /> 
 
@@ -8,7 +8,7 @@
 
 I am an easy going individual who thrives on taking on varied and challenging roles. I am confident working with
 technical specialists across different domains on both products and service line. I have good hands-on experience in
-building native mobile apps, focusing on Android Platform.  
+building native mobile apps, focusing on Android Platform.  Actively up-skilling in Applied AI Engineering, with a focus on practical, real-world implementation using LangChain & LangGraph. 
 
 ## Tech. Stack
 <p align="left">
@@ -16,18 +16,20 @@ building native mobile apps, focusing on Android Platform.
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="java">
   <img src="https://img.shields.io/badge/Jetpack Compose UI-3DDC84.svg?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose UI">
-  <img src="https://img.shields.io/badge/KMM-7F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/KMP(Compose Multiplatform)-7F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
+</br>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Langchain-3776AB.svg?style=flat-square&logo=Langchain&logoColor=white" alt="Langchain">
   <img src="https://img.shields.io/badge/Langgraph-3776AB.svg?style=flat-square&logo=Langgraph&logoColor=white" alt="Langgraph">
+	 <img src="https://img.shields.io/badge/iOS-blue?style=flat-square&logoColor=white">
 	<br>
   <img alt="Static Badge" src="https://img.shields.io/badge/jUnit-blue?style=flat-square&logo=junit5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Espresso-brown?style=flat-square&logo=coffeescript&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-blue?style=flat-square&logoColor=white">
+ 
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
   <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=flat-square&logo=JetBrains&logoColor=white" alt="JetBrains">
-	<br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black" alt="Firebase">
+  </br>
 	<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
@@ -38,13 +40,12 @@ building native mobile apps, focusing on Android Platform.
 </p>
 
 ## Github Stats
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajedev&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajedev&layout=donut)
 <p style="display: flex; justify-contect: space-between;">
 <img src="https://github-contribution-stats.vercel.app/api/?username=rajedev" />
 &nbsp;&nbsp;&nbsp;
 <img align="top" src="https://streak-stats.demolab.com?user=rajedev&mode=weekly&currStreakLabel=EB5454&fire=EB5454&ring=EB5454&currStreakNum=EB5454&sideNums=13A420&sideLabels=13A420" alt="GitHub Streak" />
 </p>
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rajedev)
 
