@@ -12,31 +12,36 @@ building native mobile apps, focusing on Android Platform.  Actively up-skilling
 
 ## Tech. Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=flat-square&logo=Android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="java">
-  <img src="https://img.shields.io/badge/Jetpack Compose UI-3DDC84.svg?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose UI">
-  <img src="https://img.shields.io/badge/KMP(Compose Multiplatform)-7F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Jetpack Compose UI-3DDC84.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose UI">
+  <img src="https://img.shields.io/badge/KMP(Compose Multiplatform)-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
 </br>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Langchain-3776AB.svg?style=flat-square&logo=Langchain&logoColor=white" alt="Langchain">
-  <img src="https://img.shields.io/badge/Langgraph-3776AB.svg?style=flat-square&logo=Langgraph&logoColor=white" alt="Langgraph">
-	 <img src="https://img.shields.io/badge/iOS-blue?style=flat-square&logoColor=white">
-	<br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/jUnit-blue?style=flat-square&logo=junit5&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Espresso-brown?style=flat-square&logo=coffeescript&logoColor=white">
- 
-  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
-  <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=flat-square&logo=JetBrains&logoColor=white" alt="JetBrains">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=Firebase&logoColor=black" alt="Firebase">
-  </br>
-	<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
-  <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
-  <img src="https://img.shields.io/badge/jira-darkblue?style=flat-square&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-red?style=flat-square&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/fastlane-purple?style=flat-square&logo=fastlane&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jUnit-blue?style=for-the-badge&logo=junit5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Espresso-brown?style=for-the-badge&logo=coffeescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase">
+</br>
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab" />
+  <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket" />
+  <img src="https://img.shields.io/badge/jira-darkblue?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/fastlane-purple?style=for-the-badge&logo=fastlane&logoColor=white">
+</p>
+
+## AI Tech. Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain">
+  <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="ollama">
+<br>
+  <img src="https://img.shields.io/badge/Claude Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude code">
+  <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white" alt="cursor">
+  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="github copilot">
 </p>
 
 ## Github Stats
